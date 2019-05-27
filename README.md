@@ -13,4 +13,4 @@ Before going through this archive, it's important to understand data analysis an
 - https://github.com/Shadowsych/data-analysis-archives
 
 # Machine Learning Map
-<img src="images/ml_map.png" height="75%" width="75%"></img>
+<img src="images/ml_map.png" height="150%" width="150%"></img>
