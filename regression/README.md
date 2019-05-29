@@ -6,7 +6,7 @@ between each independent variable and the continous dependent variable.
 
 Basically, use a regression equation to make predictions by plugging-in independent values to get a dependent value.
 
-### Why must The Dependent Variable be Continous?
+### Why Must The Dependent Variable be Continous?
 The dependent variable must be continous or the model would attempt to model randomized value, which creates an inaccurate
 regression equation that models the independent variables in respect to the dependent variable.
 
