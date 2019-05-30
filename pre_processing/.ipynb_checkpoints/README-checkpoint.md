@@ -30,14 +30,14 @@ If there's less bias to a model, then there's more variance to it.
 <img src="images/bias_variance_tradeoff.png" height="150%" width="150%"></img>
 - https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86
 
-### Bias
+### Bias for Predicted Values (Dependent Variable)
 How far off are the predicted values from the actual values?
 - High Bias: The average predicted values are very far off from the actual values
 
 High Bias causes the machine learning model to underfit the data.
 - This means the model is too simple and doesn't capture the complexity of the data set
 
-### Variance
+### Variance for Predicted Values (Dependent Variable)
 How scattered are the predicted values from the actual values?
 - High Variance: Model performs great on the trained data set, but not well on the testing data set
 
