@@ -1,10 +1,22 @@
+# Pre-Processing
+Pre-Processing is needed to clean the data set before we fit it into a statistical model.
+
+### Few Methods of Pre-Processing
+1. Encoding Categorical Variables
+2. Feature Selection (Dimensionality Reduction)
+3. Feature Extraction (Dimensionality Reduction)
+4. Splitting Training and Testing Sets
+5. Feature Scaling
+
+And many others!
+
 # Feature Selection
 A dimensional reduction technique where you select only certain features to use in a machine learning model.
 
 These "features" are the independent variables, and feature selection will help reduce the number of independent variables by determining only the significant variables that contribute to the model.
 
 ### Few Methods of Feature Selection
-1. Removing features with missing values (or replacing them with the mean).  
+1. Removing features with missing values (or replacing their values with the mean).  
 2. Removing features with low variance.  
 3. Removing features that are highly correlated to other features.  
 4. Removing features that accept a null hypothesis.  
