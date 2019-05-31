@@ -24,25 +24,20 @@ These "features" are the independent variables, and feature selection will help 
 And many others!
 
 # Bias-Variance Trade-Off
-If there's more bias to a model, then there's less variance to it.  
-If there's less bias to a model, then there's more variance to it.  
+<img src="images/bias_variance_tradeoff.png" height="50%" width="50%"></img>
 
-<img src="images/bias_variance_tradeoff.png" height="150%" width="150%"></img>
-- https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86
+### Variance for Dependent Variable (Predicted Values)
+How scattered are the predicted values from the actual values?
+- High Variance: Model performs great on the trained data set, but not well on the testing data set
 
-### Bias for Predicted Values (Dependent Variable)
+High Variance causes the machine learning model to overfit the data.
+- This implies there's "random noise" (outlier) present in the training data
+    - When a model is high-variant, then it becomes very flexible (fitted) to the training data points, which would be a problem when making predictions with an unknown or a test data set
+
+### Bias for Dependent Variable (Predicted Values)
 How far off are the predicted values from the actual values?
 - High Bias: The average predicted values are very far off from the actual values
 
 High Bias causes the machine learning model to underfit the data.
 - This means the model is too simple and doesn't capture the complexity of the data set
-
-### Variance for Predicted Values (Dependent Variable)
-How scattered are the predicted values from the actual values?
-- High Variance: Model performs great on the trained data set, but not well on the testing data set
-
-High Variance causes the machine learning model to overfit the data.
-- This implies there's "random noise" present in the training data
-    - Random Noise can also be referred to as "outlier" data points
-    - When a model is high-variant, then it becomes very flexible (fitted) to the training data points, which would be a problem when making predictions with an unknown or a test data set
     
