@@ -1,2 +1,2 @@
 # Classification Models
-Use classificatio to predict the category of given data point(s).
+Use classification to predict the category of a data point.
