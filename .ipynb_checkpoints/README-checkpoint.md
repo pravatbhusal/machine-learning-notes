@@ -1,16 +1,15 @@
 # Machine Learning References
-A separate repository from my archives that contains all my machine learning studies and references.  
+A separate repository from my archives that contains all my machine learning studies and references.
 
-# Anaconda
-Anaconda is a Python/R Data Science platform that automates many of the complicated tasks to set-up data science projects.
-- https://www.anaconda.com/
+# Supervised vs Unsupervised Models
+Supervised Learning uses input labels to learn and predict an output.  
+- The main concerns are model complexity and the bias-variance trade-off
 
-Install Anaconda for your computer, and then set-up virtual environments (VMs) for projects that need specific dependencies.
-- Anaconda comes with pre-installed dependencies for the ```root``` virtual environment such as scipy, jupyter, etc.
+Unsupervised Learning learns the inherent structure of the data set without using labels.
+- The main concerns are exploratory analysis and dimensionality reduction
 
-# Requirement
-Before going through this archive, it's important to understand data analysis and manipulating data for ML models.
-- https://github.com/Shadowsych/data-analysis-archives
+<img src="images/learning_types.jpeg" height="50%" width="50%"></img>
+- https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d
 
-# Machine Learning Map
+# SKLearn Machine Learning Map
 <img src="images/ml_map.png" height="150%" width="150%"></img>
