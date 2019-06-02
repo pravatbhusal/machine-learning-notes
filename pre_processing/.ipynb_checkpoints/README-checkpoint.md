@@ -26,6 +26,8 @@ And many others!
 # Bias-Variance Trade-Off
 <img src="images/bias_variance_tradeoff.png" height="50%" width="50%"></img>
 
+https://www.endtoend.ai/blog/bias-variance-tradeoff-in-reinforcement-learning/
+
 ### Variance for Dependent Variable (Predicted Values)
 How scattered are the predicted values from the actual values?
 - High Variance: Model performs great on the trained data set, but not well on the testing data set
