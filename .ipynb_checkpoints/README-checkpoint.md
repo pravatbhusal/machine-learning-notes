@@ -16,3 +16,9 @@ The above image tells us what type of supervised or unsupervised machine learnin
 
 # SKLearn Machine Learning Map
 <img src="images/ml_map.png" height="150%" width="150%"></img>
+
+# EDUCATIONAL DISCLAIMER
+This repository is a non-profit, educational repository to learn machine learning.
+
+Images and learning material credit go to SuperDataScience, Kirill Eremenko, and Hadelin de Ponteves.
+- https://www.superdatascience.com/machine-learning/
