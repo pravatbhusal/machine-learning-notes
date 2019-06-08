@@ -1,4 +1,4 @@
-# Clusteingr Models
+# Clustering Models
 Use clustering analysis to cluster similarly related data points without a dependent variable.
 - Similar to classification, but there is no dependent variable to categorize the data points
 
