@@ -28,6 +28,8 @@ Each machine has their own probability distribution that we don't know. Each dis
 
 <img src="images/readme/probability_distributions_bandits.png" height="75%" width="75%"></img>
 - Each graph represents a one-armed bandit
+- The x-axis represents the returns
+- The y-axis represents the density of the return (the x-value)
 
 The orange distribution is the best because its return is the largest.
 - The return is the x-value in the middle of the curve, denoted by the dotted white-line
