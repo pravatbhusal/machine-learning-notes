@@ -1,9 +1,12 @@
 # Deep Learning
-Machine learning usnig ANNs (artificial neural networks). It mimics how the human brain operates using artificial neural networks to learn and adapt based on provided input data.
+Deep learning is machine learning using ANNs (artificial neural networks). It mimics how the human brain operates using artificial neural networks to learn and adapt based on provided input data. Neural networks can do all the tasks of a typical statistical model in machine learning, but with extra layers to further calculate patterns among the data set.
 
-### Artificial Neural Network
-Each neuron is called a "node" and each column is called a "layer". The neurons are connected to another layer's neurons, and so on and so forth thus creating a "network" of neurons.
+# Model Selection
+### Regression
+- Dense (Standard Artificial) Neural Network
 
-<img src="images/readme/shallow_neural_network.png" height="65%" width="65%"></img>
+### Classification
+- Dense (Standard Artificial) Neural Network
 
-ANNs are the basic idea of neural networks in deep learning. It's essential to learn them as a pre-requisite to learn other types of neural networks.
+### Images Classification
+- Convolutional Neural Network
