@@ -23,7 +23,7 @@ Once we fit the data set through the model, we can predict the amount of salary 
 
 ### If the problem is non-linear:
 - Decision Tree Regression
-    - - When you want a clear interpretation of model results
+    - When you want a clear interpretation of model results
 - Random Forest Regression
     - When you want a high performance, with less need for interpretation
 - Support Vector Regression (RBF Kernel)
