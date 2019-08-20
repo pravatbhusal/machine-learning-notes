@@ -3,8 +3,9 @@ Dimensionality Reduction models reduce the number of independent variables to si
 
 # Model Selection
 ### Unsupervised Learning
-- PCA
-    - When you don't know the classifications (labels) of the samples
+- Linear PCA
+- Kernel PCA
+    - When your samples cannot be separated linearly using PCA
 
 ### Supervised Learning
 - LDA
