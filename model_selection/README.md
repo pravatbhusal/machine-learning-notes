@@ -1,8 +1,16 @@
-# Model Selection
+ # Model Selection
 Model selection is the task of selecting a statistical model from a set of candidate models, given the data set.
 
 ### Model Selection Algorithms
 1. K-Fold Cross Validation
+
+### Ensemble Learning Models
+No clue what models to pick? Typically, bagging (Random Forest) and boosting (XGBoost) model are the best to use. These models are also called "ensemble learning" models because they use multiple learners (models) to solve the same problem.
+
+As of 2019 when in doubt, XGBoost is considered a great model to use. To install XGBoost, type:
+```conda install -c conda-forge xgboost``` for anaconda or ```pip install xgboost``` for pip
+
+The Python documentation for XGBoost is provided [here](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn).
 
 # Parameter Tuning
 Hyperparameter optimization (or tuning) is the problem of choosing a set of optimal parameters for a statistical model.
